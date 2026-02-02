@@ -1,0 +1,10 @@
+{
+  "event_id": "string",
+  "event_type": "string",
+  "source_system": "string",
+  "event_timestamp": "ISO-8601 timestamp",
+  "payload": {
+    "attributes": "domain-specific key-value pairs"
+  }
+}
+
